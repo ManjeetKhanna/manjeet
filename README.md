@@ -1,3 +1,3 @@
-My portfolio website:
+This is my portfolio website.
 
-Live link: [Portfolio Website]([url](https://manjeetkhanna.github.io/manjeet/))
+[Portfolio Website](https://manjeetkhanna.github.io/manjeet/)
